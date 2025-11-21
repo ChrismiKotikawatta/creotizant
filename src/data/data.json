@@ -4,7 +4,7 @@
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Creotizant is a Creative Digital Agency based in the UK, working with Clients across the Globe to turn Bold Ideas into Powerful, High-Performing Brands.\n\nWe specialise in Brand Strategy, Digital Marketing, Web Design & Development, and Custom Software Solutions. Our team of experienced professionals is dedicated to delivering innovative solutions that drive business growth and enhance brand presence in the digital landscape.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -68,28 +68,33 @@
   "Services": [
     {
       "icon": "fa fa-desktop",
-      "name": "Branding and Identity",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Brand Strategy and Identity Design",
+      "text": "We partner with businesses to establish a clear and compelling brand foundation. Our services include brand positioning, naming, logo development, and the creation of comprehensive identity systems. Every element is strategically designed to articulate your values, differentiate your brand in the market, and build long-term recognition across all touchpoints."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Creative Content and Campaigns",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Digital Marketing and Growth Campaigns",
+      "text": "We design and execute performance-driven marketing strategies that elevate brand visibility and drive qualified traffic. Through data-led insights, precise targeting, and compelling creative, we develop campaigns that generate measurable results across paid media, search, social platforms, and automated funnels, aligned to your commercial goals."
     },
     {
       "icon": "fa fa-code",
-      "name": "Web & Digital Design",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Web Design and Development",
+      "text": "A well-executed website is essential to digital success. We design and develop responsive, user-centric websites that are visually aligned with your brand and optimised for performance. Our focus is on creating seamless digital experiences that engage visitors, support business objectives, and are easy for internal teams to manage and scale."
     },
     {
       "icon": "fa fa-language",
-      "name": "Marketing Strategy and Automation",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Custom Software Development",
+      "text": "We deliver tailored software solutions designed to streamline operations, improve user engagement, and support business growth. From customer-facing portals to internal platforms and mobile applications, our custom development services are designed to seamlessly integrate with your existing systems and workflows, while meeting your specific technical and operational requirements."
     },
     {
       "icon": "fa fa-lightbulb-o",
-      "name": "Consulting and Digital Transformation",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "UX and UI Design",
+      "text": "Our UX/UI design services ensure digital products are intuitive, accessible, and visually engaging. Every interface is developed with the end-user in mind, striking a balance between functional clarity and aesthetic excellence. The result is a cohesive user experience that enhances satisfaction, supports retention, and contributes to overall business success."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "name": "Content Strategy and Storytelling",
+      "text": "We help organisations communicate with clarity and consistency across channels. Our content strategies are informed by audience insights and business objectives, ensuring that every message strengthens brand positioning and drives engagement. From long-form content to campaign messaging, we develop narratives that resonate and deliver results."
     }
   ],
   "Testimonials": [
@@ -147,9 +152,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "124 City Road, London, EC1V 2NX",
+    "phone": "+44 7831 573 818",
+    "email": "Sachintha@creotizant.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"

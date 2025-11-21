@@ -450,6 +450,14 @@ header .intro-text {
   margin-bottom: 40px;
 }
 
+#services .col-md-4 {
+  height: 500px;
+}
+
+
+
+
+
 /* Portfolio Section */
 #portfolio {
   padding: 100px 0;
