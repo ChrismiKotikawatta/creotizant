@@ -7,7 +7,7 @@ import { Navigation } from "./components/navigation";
 import { Header } from "./components/header";
 import { About } from "./components/about";
 import { Services } from "./components/services";
-import { Testimonials } from "./components/testimonials";
+
 import { Contact } from "./components/contact";
 
 import { Blogs } from "./pages/blogs";
