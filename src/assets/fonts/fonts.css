@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'GnarlyRegular';
+    src: url('../fonts/fonts/FKTGnarly_Rg.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GnarlyBold';
+    src: url('../fonts/fonts/FKTGnarly_Bd.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
